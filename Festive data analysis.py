@@ -2,13 +2,11 @@
 """
 Created on Tue Oct 24 16:27:09 2023
 
-@author: NightHacker
+@author: NightHacker and KitWalker21
 """
 
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-# %matplotlib inline
 import seaborn as sns
 
 # import csv file
